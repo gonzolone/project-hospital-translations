@@ -37,7 +37,7 @@
             <GameDBLocalizedString>      <LocID>ACHIEVEMENT_MOVER_DESCRIPTION</LocID>                  <Text>Sposta 50 oggetti.</Text>  </GameDBLocalizedString>            
             <GameDBLocalizedString>      <LocID>ACHIEVEMENT_GREAT_WALL</LocID>                         <Text>Il grande muro dell'ospedale.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ACHIEVEMENT_GREAT_WALL_DESCRIPTION</LocID>             <Text>Costruisci oltre 1000 piastrelle per muri.</Text>  </GameDBLocalizedString>            
-            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_TOILETS</LocID>                            <Text>It's me, Mario!</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_TOILETS</LocID>                            <Text>Sono io, Mario!</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ACHIEVEMENT_TOILETS_DESCRIPTION</LocID>                <Text>Posiziona 30 bagni.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ACHIEVEMENT_LITTER_FREE</LocID>                        <Text>Senza spazzatura.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ACHIEVEMENT_LITTER_FREE_DESCRIPTION</LocID>            <Text>Posiziona 30 cestini dei rifiuti.</Text>  </GameDBLocalizedString>
@@ -140,7 +140,7 @@
             <GameDBLocalizedString>      <LocID>ACHIEVEMENT_CHALLENGE_LEVEL_5</LocID>                  <Text>Maestro di Cardiologia</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ACHIEVEMENT_CHALLENGE_LEVEL_5_DESCRIPTION</LocID>      <Text>Completa la sfida livello 5.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ACHIEVEMENT_CHALLENGE_LEVEL_6</LocID>                  <Text>Maestro di Neurologia</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_CHALLENGE_LEVEL_6_DESCRIPTION</LocID>      <TextCompleta la sfida livello 6.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_CHALLENGE_LEVEL_6_DESCRIPTION</LocID>      <Text>Completa la sfida livello 6.</Text>  </GameDBLocalizedString>
 
         </LocalizedStrings>
     </GameDBStringTable>
